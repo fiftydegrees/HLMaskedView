@@ -23,19 +23,19 @@ This parameter defines how your mask must be resized before masking your instanc
 
 Describes how the bezier path must be resized
 
-![HLMaskResizingNone](https://raw.githubusercontent.com/fiftydegrees/HLMaskResizing/master/README-Files/hlmaskedview-noresizing.png)
+![HLMaskResizingNone](https://raw.githubusercontent.com/fiftydegrees/HLMaskedView/master/README-Files/hlmaskedview-noresizing.png)
 
 **HLMaskResizingScaleToFill**
 
 Fit the initial view area, the mask ratio is not preserved
 
-![HLMaskResizingScaleToFill](https://raw.githubusercontent.com/fiftydegrees/HLMaskResizing/master/README-Files/hlmaskedview-scaletofill.png)
+![HLMaskResizingScaleToFill](https://raw.githubusercontent.com/fiftydegrees/HLMaskedView/master/README-Files/hlmaskedview-scaletofill.png)
 
 **HLMaskResizingAspectFit**
 
 Fit as much as possible the initial view area, preserving mask ratio
 
-![HLMaskResizingAspectFit](https://raw.githubusercontent.com/fiftydegrees/HLMaskResizing/master/README-Files/hlmaskedview-aspectfit.png)
+![HLMaskResizingAspectFit](https://raw.githubusercontent.com/fiftydegrees/HLMaskedView/master/README-Files/hlmaskedview-aspectfit.png)
 
 ## Credits
 
